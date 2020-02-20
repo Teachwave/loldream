@@ -8,8 +8,8 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`I have the latest spices`,"https://www.twitch.tv/faker")
+client.user.setGame(`Teachwaver fo2`,"https://www.twitch.tv/faker")
 client.user.setStatus("dnd")
 });
 
-client.login(process.env.BOT_TOKEN);// لا تغير فيها شيء
+client.login(process.env.BOT_TOKEN);
