@@ -8,7 +8,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Teachwave is fo2`,"https://www.twitch.tv/faker")
+client.user.setGame(`Teachwave is fo2`,"https://www.youtube.com/eternalhero")
 client.user.setStatus("dnd")
 });
 
